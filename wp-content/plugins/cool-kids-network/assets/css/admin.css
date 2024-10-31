@@ -1,0 +1,24 @@
+.updated {
+  background-color: #f0fff4 !important;
+  transition: background-color 0.5s ease;
+}
+
+.role-select {
+  margin-right: 10px;
+}
+
+.wp-list-table th {
+  padding: 8px;
+}
+
+.wp-list-table td {
+  padding: 12px 8px;
+}
+
+.bulk-actions {
+  margin: 8px 0;
+}
+
+#bulk-action-selector {
+  margin-right: 10px;
+}
