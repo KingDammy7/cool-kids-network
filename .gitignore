@@ -1,0 +1,9 @@
+# .gitignore
+# WordPress core files to ignore
+wp-config.php
+wp-content/uploads/
+wp-content/upgrade/
+wp-content/cache/
+
+# But keep database backups
+!wp-database/
